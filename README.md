@@ -22,5 +22,3 @@ Overall, Dockerizing Jenkins streamlines the deployment process, improves portab
 ```
 https://medium.com/@solanki.kishan007/dockerize-jenkins-master-slave-f3acbd530814
 ```
-
-Note: Please replace "https://medium.com/@solanki.kishan007" in the URL with the actual URL of your Medium article.
