@@ -16,3 +16,11 @@ Dockerizing Jenkins brings several benefits to the development and CI/CD process
 7) Continuous Integration and Deployment: Dockerized Jenkins integrates well with the concept of continuous integration and deployment (CI/CD). By automating the building, testing, and deployment processes within Docker containers, you can achieve faster and more efficient CI/CD workflows, enabling rapid development cycles and faster time to market.
 
 Overall, Dockerizing Jenkins streamlines the deployment process, improves portability and scalability, enhances resource efficiency, and enables reproducibility and consistency. These benefits contribute to a more efficient and streamlined CI/CD pipeline, making Docker an attractive choice for Jenkins deployments.
+
+"To configure this project, you will find detailed guidelines and instructions on the following link, which is my page on medium.com. Please visit the link to set up this project:
+
+```
+https://medium.com/@solanki.kishan007/dockerize-jenkins-master-slave-f3acbd530814
+```
+
+Note: Please replace "https://medium.com/@solanki.kishan007" in the URL with the actual URL of your Medium article.
